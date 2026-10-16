@@ -4,8 +4,8 @@ import sidebar from './sidebar'
 export default defineConfig({
   srcDir: 'docs',
   lang: 'zh-Hans',
-  title: '湄轩历史社',  
-  description: '福建省莆田第一中学的历史社',
+  title: '激光造物社',  
+  description: '福建省莆田第一中学的激光切割社团',
   appearance: false,
   themeConfig: {
     nav: [
