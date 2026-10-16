@@ -2,9 +2,9 @@
 layout: home
 
 hero:
-  name: "湄轩历史社"
+  name: "激光造物社"
   text: "葡萄园子"
-  tagline: "历史即鉴"
+  tagline: "光之正义"
   actions:
     - theme: brand
       text: 了解社团
